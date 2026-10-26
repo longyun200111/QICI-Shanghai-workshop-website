@@ -1,0 +1,15 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//QICI//Shanghai Workshop//EN
+CALSCALE:GREGORIAN
+BEGIN:VEVENT
+UID:qici-shanghai-2026-1215@qici-workshop
+DTSTAMP:20261026T000000Z
+DTSTART;VALUE=DATE:20261215
+DTEND;VALUE=DATE:20261218
+SUMMARY:QICI Shanghai Workshop
+LOCATION:HKU CDS Campus\, Zhangjiang\, Shanghai
+DESCRIPTION:Organised by the Quantum Information and Computation
+ Initiative (QICI) at HKU CDS. Programme to be announced.
+END:VEVENT
+END:VCALENDAR
